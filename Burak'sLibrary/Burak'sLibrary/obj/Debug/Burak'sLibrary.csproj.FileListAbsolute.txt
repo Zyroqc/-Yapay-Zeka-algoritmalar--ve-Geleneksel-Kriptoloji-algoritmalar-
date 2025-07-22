@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\c#\Burak'sLibrary\Burak'sLibrary\bin\Debug\Burak'sLibrary.dll
+C:\Users\Administrator\Desktop\c#\Burak'sLibrary\Burak'sLibrary\bin\Debug\Burak'sLibrary.pdb
+C:\Users\Administrator\Desktop\c#\Burak'sLibrary\Burak'sLibrary\obj\Debug\Burak'sLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\c#\Burak'sLibrary\Burak'sLibrary\obj\Debug\Burak'sLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\Burak'sLibrary\Burak'sLibrary\obj\Debug\Burak'sLibrary.dll
+C:\Users\Administrator\Desktop\c#\Burak'sLibrary\Burak'sLibrary\obj\Debug\Burak'sLibrary.pdb
